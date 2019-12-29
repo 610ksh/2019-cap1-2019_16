@@ -1,6 +1,8 @@
-# 2019 소프트웨어 융합대학 캡스톤 디자인Ⅰ 16조 Surreal
+# 2019 소프트웨어 융합대학 캡스톤 디자인Ⅰ 16조
+## Surreal team
 ![team](./Docs/img/TeamLogo_resize.png)
-# REVISION
+(team logo)
+# Title : REVISION
 ![game](./Docs/img/REVISION.png)
 
 
