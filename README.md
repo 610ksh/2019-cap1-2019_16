@@ -8,9 +8,8 @@
 
 ### 팀페이지 주소 -> https://kookmin-sw.github.io/2019-cap1-2019_16/
 ### Trello -> https://trello.com/b/hbH84neL
-### Version : 4.21.2 (2019)
+### Unreal Version : 4.21.2 (2019)
 
-#
 
 ## 1. 프로잭트 소개
 
